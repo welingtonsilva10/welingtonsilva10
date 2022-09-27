@@ -23,5 +23,6 @@
 
 #### Texas Holdem
 
+<hr>
 
 ### Não existem métodos fáceis para resolver problemas difíceis.
